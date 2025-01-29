@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices.Marshalling;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace xadrez_console.tabuleiro {
+﻿namespace xadrez_console.tabuleiro {
     class Posicao {
         public int linha { get; set; }
         public int coluna { get; set; }
